@@ -12,5 +12,4 @@ The html code can be found under compucorp/node.html
 
 For a proper render of the themes, disable any block layout under the drupal admin structure option
 
-The theme is under GNU/GPL v3 license, code written by Dimitri Mader (dimitri@linux.com) for compucorp.co.uk
-
+The theme is under GNU/GPL v3 license, code written by Dimitri Mader (dimitri@linux.com)
