@@ -2,7 +2,7 @@
 ABOUT Compucorp Drupal theme
 ----------------------------
 
-![Alt text](screenshot.png?raw=true "Drupal Tehme")
+![Alt text](https://github.com/Anyon3/compucorp/blob/master/screenshot.png?raw=true "Drupal Tehme")
 
 The compucorp drupal themes was made from the scratch using the default stark drupal theme as template.
 
