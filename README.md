@@ -1,8 +1,10 @@
 
-ABOUT Compucorp
------------
+ABOUT Compucorp Drupal theme
+----------------------------
 
-The compucorp drupal themes was made from the scratch using the default startk drupal theme as template.
+![Alt text](screenshot.png?raw=true "Drupal Tehme")
+
+The compucorp drupal themes was made from the scratch using the default stark drupal theme as template.
 
 The whole css is contain under the css file compucorp/css/layout.css for made any edit / add on the theme in a easy way.
 
